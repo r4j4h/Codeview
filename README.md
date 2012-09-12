@@ -1,7 +1,7 @@
 About Codeview
 ==============
 
-Codeview is a template for JSDoc Toolkit (also known as JSDoc 2), which predecessor of JSDoc3. With JSDoc you can generate a documentation website.
+Codeview is a template for JSDoc Toolkit (also known as JSDoc 2), which is a predecessor of JSDoc3. With JSDoc you can generate a documentation website from annotated JavaScript code.
 
 License
 -------
