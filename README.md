@@ -14,6 +14,7 @@ Credits
 -------
 
 Codeview is created by Wouter Bos. The following persons have upgraded/debugged this template:
+
     - Christopher Hall
     - Bill Bryant
     - Vesa Laakso
